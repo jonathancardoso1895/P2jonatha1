@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">P2jonatha1</string>
+    <string name="titulo1">TESOEM</string>
+    <string name="btnsiguiente">siguiente</string>
+    <string name="MenuPrincipal">Menu Principal</string>
+    <string name="MenuPrincipal" tools:ignore="DuplicateDefinition">Menu Principal</string>
+    <string name="siguiente2">Siguiente</string>
+    <string name="Titulo3">PAGINA 3</string>
+</resources>
